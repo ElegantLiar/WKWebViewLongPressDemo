@@ -566,6 +566,7 @@
 				7AB88E731DAA181300C8EC01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7AB88E741DAA181300C8EC01 /* Build configuration list for PBXNativeTarget "WKWebViewTests" */ = {
 			isa = XCConfigurationList;
@@ -574,6 +575,7 @@
 				7AB88E761DAA181300C8EC01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7AB88E771DAA181300C8EC01 /* Build configuration list for PBXNativeTarget "WKWebViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -582,6 +584,7 @@
 				7AB88E791DAA181300C8EC01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
